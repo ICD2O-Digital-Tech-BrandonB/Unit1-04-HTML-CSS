@@ -1,0 +1,20 @@
+/* Created by: Brandon Brandhuber
+* Created on: February 19th, 2025
+* This file contains the CSS for more_style.html
+*/
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+
+    background-color: rgb(41, 192, 200);
+    color: hsl(0, 77%, 44%);
+    padding: 40px;
+    text-align: center;
+}
+
+p {
+    background-color: #0ce0e7;
+}
